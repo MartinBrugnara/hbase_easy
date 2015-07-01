@@ -8,8 +8,8 @@ Known incompatibilities w/other distros
 - useradd vs adduser
 - groupsadd vs addgroup
 
-DISCLAIMER
-This script were generated from the cleaning of few bash\_history
-there could be errors and things that does not work!
+DISCLAIMER:  
+This scripts were generated from the cleaning of few bash\_history.
+There could be errors and things that does not work!
 
 NOT YET TESTED!

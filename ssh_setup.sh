@@ -1,5 +1,6 @@
-#!/bin/echo
-
+#!/bin/bash
+tail -n+5 `basename "$0"` | more
+exit
 
 # TO BE RUN on developer machine
 # Require sshpass
